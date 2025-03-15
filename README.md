@@ -1,6 +1,7 @@
 # Weather-Station-
 
 **Features**
+
 Real-Time Data Visualization: Displays temperature, humidity, light intensity, water level, and rain level in real-time.
 
 Dynamic Background: Changes based on rain level (dark for no rain, light blue for light rain, dark blue for heavy rain).
